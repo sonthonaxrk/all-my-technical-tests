@@ -1,7 +1,7 @@
 # List of Technical Tests I Have Done
 
 In my career I have done a great number of technical tests. Some I merely did as exercises for myself knowing that I
-was probably not going to get the job, and hoped to merely expand my skillset. I've obviously developed as a developer over
+was probably not going to get the job, and hoped to merely expand my skillset. I've obviously grown as a developer over
 the years, but I'm pleased with most of the tests I have done.
 
 However, at this point I hope that anyone who wishes to hire me will examine this first, before compelling me to add yet another example of Django, Flask or a simple algorithm.
