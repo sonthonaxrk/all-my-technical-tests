@@ -1,4 +1,4 @@
-# List of Technical Tests I Have Done
+# Partial List of Technical Tests
 
 In my career I have done a great number of technical tests. Some I merely did as exercises for myself knowing that I
 was probably not going to get the job, and hoped to merely expand my skillset. I've obviously grown as a developer over
